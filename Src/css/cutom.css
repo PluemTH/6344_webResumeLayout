@@ -1,0 +1,40 @@
+main{
+    background-color: rgb(89, 228, 186);
+    height: 400px;
+    width: 1000px;
+}
+header{
+    background-color: darkgray;
+    overflow: hidden;
+}
+#MENU{
+    background-color: aquamarine;
+    width: 400px;
+    float : right;
+}
+#LOGO{
+    background-color: brown;
+    width: 50px;
+    float: left;
+}
+#SLIDE{
+    background-color: bisque;
+    height: 100px;
+}
+#CONTENT{
+    background-color: cornflowerblue;
+    height: 250px;
+}
+.SUBCONTENT{
+    background-color: darkcyan;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    float:left;
+    margin: 10px;
+}
+
